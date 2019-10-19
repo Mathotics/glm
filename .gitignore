@@ -56,3 +56,8 @@ build*
 /.vscode
 /CMakeSettings.json
 .DS_Store
+
+# visual studio project and solution files
+*.sln
+*.vcxproj
+*.vcxproj.*
